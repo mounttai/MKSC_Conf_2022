@@ -4,10 +4,10 @@ The conference agenda is available at [this place](../../raw/main/data/298315070
 
 The following steps were taken to gain a quick opinions on topics presented in the conference:
 
-* [extract_text_from_pdf.py](../../raw/main/code/extract_text_from_pdf.py) can extract the pure text from the above pdf file (it is a bit tricky as the pdf file has two columns);
-* [extract_doc_from_text.py](../../raw/main/code/extract_doc_from_text.py) can separate the single text file created in the first step into single papers. **Altogether there are 533 presentations**;
-* [create_topic_from_papers.py](../../raw/main/code/create_topic_from_papers.py) can create the topic distributions (for a given number) from all the papers;
-* [create_topic_from_papers_on_topic.py](../../raw/main/code/create_topic_from_papers_on_topic.py) can create the topic distributions (for a given number) from all the papers **about a particular topic of interest**, e.g., live streaming.
+* [extract_text_from_pdf.py](../../blob/main/code/extract_text_from_pdf.py) can extract the pure text from the above pdf file (it is a bit tricky as the pdf file has two columns);
+* [extract_doc_from_text.py](../../blob/main/code/extract_doc_from_text.py) can separate the single text file created in the first step into single papers. **Altogether there are 533 presentations**;
+* [create_topic_from_papers.py](../../blob/main/code/create_topic_from_papers.py) can create the topic distributions (for a given number) from all the papers;
+* [create_topic_from_papers_on_topic.py](../../blob/main/code/create_topic_from_papers_on_topic.py) can create the topic distributions (for a given number) from all the papers **about a particular topic of interest**, e.g., live streaming.
 
 A few observations could be made about the topics presented in the conference (using all the papers, and setting the number of topics as 10):
 

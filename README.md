@@ -27,9 +27,9 @@ Topic 2 (based on all the papers and num-topics = 10)
 ![Topic 2](../../raw/main/vis/mksc-2022-topic-2.png?raw=true "Rising interest on social and content marketing")
 
 
-Topic 3 (based on all the papers and num-topics = 10)
+Topic 6 (based on all the papers and num-topics = 10)
 
-![Topic 3](../../raw/main/vis/mksc-2022-topic-3.png?raw=true "Diminishing interest on offline grocery shopping")
+![Topic 6](../../raw/main/vis/mksc-2022-topic-6.png?raw=true "Diminishing interest on offline grocery shopping")
 
 
 Topic 7 (based on all the papers and num-topics = 10)

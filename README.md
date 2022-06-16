@@ -19,4 +19,19 @@ A few observations could be made about the topics presented in the conference (u
 
 Topic 1 (based on all the papers and num-topics = 10)
 
-![Topic 1](../../raw/main/vis/mksc-2022-topic-1.png?raw=true "Mainstream marketing topics on 4P")
+![Topic 1](../../raw/main/vis/mksc-2022-topic-1.png?raw=true "Mainstream marketing topics on 4P" | width=100)
+
+
+Topic 2 (based on all the papers and num-topics = 10)
+
+![Topic 2](../../raw/main/vis/mksc-2022-topic-2.png?raw=true "Rising interest on social and content marketing" | width=100)
+
+
+Topic 3 (based on all the papers and num-topics = 10)
+
+![Topic 3](../../raw/main/vis/mksc-2022-topic-3.png?raw=true "Diminishing interest on offline grocery shopping" | width=100)
+
+
+Topic 7 (based on all the papers and num-topics = 10)
+
+![Topic 7](../../raw/main/vis/mksc-2022-topic-7.png?raw=true "Keen on mundane topic such as Covid" | width=100)

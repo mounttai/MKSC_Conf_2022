@@ -19,7 +19,7 @@ A few observations could be made about the topics presented in the conference (u
 
 Topic 1 (based on all the papers and num-topics = 10)
 
-![Topic 1](../../raw/main/vis/mksc-2022-topic-1.png?raw=true "Mainstream marketing topics on 4P" | width=100)
+![Topic 1](../../raw/main/vis/mksc-2022-topic-1.png?raw=true "Mainstream marketing topics on 4P" =100x)
 
 
 Topic 2 (based on all the papers and num-topics = 10)

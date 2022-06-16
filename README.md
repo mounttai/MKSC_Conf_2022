@@ -1,6 +1,6 @@
 # MKSC_Conf_2022
 
-The conference agenda is available at [this place](../../blob/main/data/298315070-2022_INFORMS_Marketing_Science_Program.pdf)
+The conference agenda is available at [this link](../../blob/main/data/298315070-2022_INFORMS_Marketing_Science_Program.pdf)
 
 The following steps were taken to gain a quick opinions on topics presented in the conference:
 
@@ -14,7 +14,7 @@ A few observations could be made about the topics presented in the conference (u
 * the mainstream marketing topics still prevail, e.g. product, price, advertising, etc. (topic 1)
 * social and content marketing keep emerging, the rise of influencer marketing and video marketing is noticeable (topic 2).
 * diminishing interest in offline grocery shopping (topic 6)
-* some interests in trendy topics, e.g., Covid (topic 7) and DEI (seemingly topic 5).
+* some interests in trendy topics, e.g., Covid (topic 7) and DEI (seemingly, topic 5).
 
 
 **Topic 1** (based on all the papers and num-topics = 10)

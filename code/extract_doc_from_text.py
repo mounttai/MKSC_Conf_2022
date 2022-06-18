@@ -10,7 +10,7 @@ import re
 text_file = open("../data/mksc_conf_2022_paper_text.txt", 'r')
 
 section_start_pattern = re.compile('^[T|F|S][A|B|C|D|E][0|1][1-9]')
-paper_start_pattern = re.compile('^[1-8] -')
+paper_start_pattern = re.compile('^[0-9]+[ ]*-')
 
 line_index = 0
 paper_index = 1

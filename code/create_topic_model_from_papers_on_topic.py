@@ -21,14 +21,14 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 topic_name = "streaming"
 topic_related_keywords = ['live', 'streaming', 'livestreaming', 'livestream', 'influencer']
 
-#topic_name = "privacy"
-#topic_related_keywords = ['privacy', 'sensitive', 'secret', 'intimate']
+topic_name = "privacy"
+topic_related_keywords = ['privacy', 'sensitive', 'secret', 'intimate']
 
-#topic_name = "covid19"
-#topic_related_keywords = ['covid', 'covid19', 'pandemic', 'intimate', 'health', 'healthcare']
+topic_name = "covid19"
+topic_related_keywords = ['covid', 'covid19', 'pandemic', 'intimate', 'health', 'healthcare']
 
 # number of topics to obtain
-number_topics = 10
+number_topics = 3
 
 # configuration
 FILE_DIR = os.path.abspath(__file__)

@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 from textblob import Word
 
 # number of topics to obtain
-number_topics = 10
+number_topics = 3
 
 # configuration
 FILE_DIR = os.path.abspath(__file__)
